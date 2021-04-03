@@ -9,7 +9,7 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class Bomberman extends Game {
-    private static final int TILE_SIZE = 16;
+    public static final int TILE_SIZE = 16;
     public static final int WIDTH = 832;
     public static final int HEIGHT = 832;
 
